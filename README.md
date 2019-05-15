@@ -16,7 +16,7 @@ All Projects that aim to educate (i.e. through which a topic is learned) follow 
 
 These Projects can also be viewed and managed on a tablet or mobile phone, besides a web browser (see ZenHub for the app).
 
-![creations](https://github.com/vanHeemstraDesigns/index/blob/master/Creations.PNG)
+![creations](../master/Creations.PNG)
 
 Other organizations are:
 
