@@ -20,6 +20,6 @@ These Projects can also be viewed and managed on a tablet or mobile phone, besid
 
 Other organizations are:
 
-- van Heemstra Pictures [https://github.com/vanHeemstraPictures/index/]: specializing in (digital) pictures, such as Digital Photography and Cinematography/Videography. 
+- [van Heemstra Pictures](https://github.com/vanHeemstraPictures/index/): specializing in (digital) pictures, such as Digital Photography and Cinematography/Videography. 
 
-- van Heemstra Systems [https://github.com/vanHeemstraSystems/index/]: specializing in IT, such as DevOps 
+- [van Heemstra Systems](https://github.com/vanHeemstraSystems/index/): specializing in IT, such as DevOps 
