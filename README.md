@@ -7,8 +7,8 @@ The organization van Heemstra Designs covers all matters Design related.
 
 Look at Projects to find topics, e.g.:
 
-- Digital Drawing []
-- Digital Painting []
+- [Digital Drawing](../../../projects/1)
+- [Digital Painting)[../../../projects/2)
 
 These Projects are enhanced using ZenHub (https://zenhub.io) to allow for Epics etc.
 
